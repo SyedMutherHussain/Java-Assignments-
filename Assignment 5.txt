@@ -1,0 +1,46 @@
+1).what is the default value of array for different data types
+
+Ans:  boolean false
+         Int = 0
+        float , double = 0.0
+       Any object = null
+
+2).can you pass the negative number in array size?
+
+Ans: no you cannot pass the negative number in an array because if you pass the negative number in an array it will gives you an compiler time error. Which is also called negative bounds exception error.
+
+3).where does array stored in JVM memory?
+
+Ans: In JVM memory is stored in the heap memory because of new keyword like as an object.
+
+4).what are disadvantages of an array?
+
+Ans: ->there are two disadvantages of an array which are:
+
+        i)it only stores the homogenous type of data which means only the same type data.
+
+       ii)the second thing is tat we cannot change the size of an array means we cannot increased or decreased the size of data.
+
+5).what is the Anonymous array in java ? give a example?
+
+Ans: basically Anonymous means nameless or unmentioned ,but the thing is it is only used one time and not more than one time.
+
+Example:
+            Int array[] = {1,2,3,4,5,6}
+	New string ={“tea”,”coffee”,”cookies”}
+
+6).what are different ways to traverse an array in java?
+
+Ans: i)using for loop 
+       ii)using for each loop
+
+7).what is the difference between length and length() method give an example?
+
+Ans: Here length is the property which is used to find the length of an existing array that how many variables are present in it.
+   For example:
+      Int fruits[] = new int()
+      System.out.println(fruits[].lenght)
+
+The another method length() is called as method which is used to know the length of an strings basically.
+
+

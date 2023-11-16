@@ -1,0 +1,137 @@
+1). What is a computer?
+
+A computer is an electronic and programmable device that stores and process data often in binary form in accordance with commands from a variable program.
+
+2). What is RAM?
+
+→ RAM - Random Access Memory
+
+→RAM is built with the semiconductor tech which is basically fast in nature to sent the data to CPU through the receiving from hard disk drive .the parts in which the data is stored are called as registers basically.
+
+→volatile in nature
+
+3). Where does the data stored in computer?
+
+The data is stored in Microprocessor which is also called as Brain of the computer. The hard disk drive is connected to the RAM with the bus in the file format and from the RAM the CPU is connected. 
+
+→ the RAM and the CPU are both made up of semiconductor technology.
+
+
+4)the input devices which is used to type the text and numbers is keyboard
+
+5).what are the output devices?
+
+The output devices are 
+1)scanner
+2)monitor
+3)printer
+4)joystick
+5)lasers
+
+6).the input device which is used to move cursor in the screen is 
+
+—>mouse
+—->laser mouse
+
+7).the computer understand the direct language is “binary language”
+
+8)the input devices are 
+
+Keyboard 
+Cd
+Dvd
+mouse
+1).what are programming languages?
+
+Basically programming languages are used to communicate with the computer in its understandable language which is binary language(0s  &  1s).
+
+There are two types of programming languages:
+
+—>statically typed programming language  (ex : java,c,c++)
+—>dynamically typed programming language(ex:python)
+
+
+2).why we need programming languages?
+  
+We need programming languages to communicate with the computers and takes the complex decision making with problem solving using data structures and algorithms.
+
+3).what are the features of java?
+
+→Java is a object-oriented-programming language 
+→robust
+→platform independent
+→data security
+
+4).what is an object?
+
+An object is an blueprint or a template of a class.
+
+5).what is a class?
+
+Class is parent of an object.
+
+6).Explain about the main method in java?
+
+The main method of java is 
+
+Public static void main(String args[])
+
+Main method is that from where the program is started to execute
+
+
+
+
+
+
+
+
+
+
+1).what is statically typed and dynamically typed programming language?
+
+Statically typed :Are those in which we should declare the datatype format giving the data
+Eg:c,c++
+
+Dynamically typed:are those in which we need not to declare datatype before giving it
+Eg:python
+
+2).what are the variables in java ?
+
+Variables are the container which are used to store data.
+
+Rules:
+a)it should not be started with number (eg:2veg = 2)
+b)case sensitive
+c)camelCase should be followed
+
+3).how to assign a value to a variable?
+  
+  a)datatype var_name = assigned value
+
+Ex: int fruits = 399
+
+4).what are primitive datatype?
+
+a)int
+b)short
+c)long , double
+d)float
+
+
+5).what are identifiers in java?
+
+An identifier is a name given to a package.class,interface,method or variable,all identifiers must have diff name
+
+6).list of operators in java?
+
+a)arithmetic operators
+b)relational operators
+c)logical operators
+d)bitwise operators
+e)compare operators
+
+7).operator 
+   a)increment operator i++
+   b)decrement operator++i
+
+

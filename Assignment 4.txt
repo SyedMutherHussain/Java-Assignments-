@@ -1,0 +1,44 @@
+1). How to create an object in java?
+
+ans : to create object in java 
+    syntax is ----> Classname objname = new classname();
+
+ where , 
+	new is the keyword to create an object 
+	classname() --- this is basically known as constructor
+                        which provides space in heap memory
+
+2).what is the use of new keyword in java?
+
+ans : the new key-word is used to create objects in java.the       object which is also known as instances.
+
+3).what are the different types of variable in java?
+
+ans : there are basically 3 types of variables 
+
+        local variable
+	global variable
+	instance variable
+
+4).what is difference between local variable and instance variable?
+
+ans : local variable
+
+        local variable are those variable which are declared outside the block of code.
+
+     instance variable
+      
+        instance variable are those variables which are declared
+inside the block of the code.
+
+5).In which area memory is located for instances variable and local variable?
+
+ans : the memory location of an instance variables is nothing but       our Heap area
+      the memory location of on local variables is our stack       memory
+
+6).what is the method overloading?
+
+ans: the method overloading is that in which the function name can be same but the parameter "should" be differ for each method.
+ 
+
+

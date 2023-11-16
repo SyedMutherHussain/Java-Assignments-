@@ -1,0 +1,46 @@
+What is a GIT?
+ANS : A GIT is a version control system ,And basically it stores and tracks the history of our code in remote format
+
+	
+     2).what do you understand about the term version control system?
+    
+    Ans : the term version control system means is a kind of machine which keeps the tracks         of codes in it. And it takes a snapshot of the local machine data and saves in it.
+There are two types of vsc:
+*Centralized version control system 
+*Distributed  version control system
+
+3).what is GITHub?
+
+Ans: Git-hub is also a version control system  used to keep tracks of code and easy to collaborate in high level of project
+
+4).Mention some popular GIT hosting services?
+
+Ans:    Git-hub
+ 	Git-lab
+	Git-Bucket
+
+5).Different  types of version control system?
+
+Ans : 1)Centralised Version Control System
+         2)Distributed  Version  Control System
+
+6).what benefits come with using GIT?
+
+Ans:  version control , branching , collaboration
+
+7).what is a GIT repository?
+
+Ans:Git repository is used to maintain our code in remote machine as a snapshot and
+       And a copy is also kept in local machine
+
+8).How can you initialise a Repository in GIT ?
+
+Ans: cd /path/to/your/project/directory
+        git init
+        git add filename1 filename2
+        git add .
+        git commit -m "Initial commit"
+
+
+
+

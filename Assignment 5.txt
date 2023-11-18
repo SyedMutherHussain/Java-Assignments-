@@ -34,6 +34,15 @@ Example:
 Ans: i)using for loop 
        ii)using for each loop
 
+
+
+
+
+
+
+
+
+
 7).what is the difference between length and length() method give an example?
 
 Ans: Here length is the property which is used to find the length of an existing array that how many variables are present in it.
@@ -42,5 +51,6 @@ Ans: Here length is the property which is used to find the length of an existing
       System.out.println(fruits[].lenght)
 
 The another method length() is called as method which is used to know the length of an strings basically.
+
 
 
